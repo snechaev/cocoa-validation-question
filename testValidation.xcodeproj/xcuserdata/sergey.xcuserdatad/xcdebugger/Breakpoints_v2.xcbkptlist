@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CBBBBCA4-E59F-48E8-B002-91BCFF8FC656"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F70B019-A606-43A2-85C4-F3DAEB173001"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testValidation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "applicationDidFinishLaunching(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8733B1F6-2641-4002-AB51-65D165D1B7CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testValidation/TestClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "validateValue(_:forKey:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8733B1F6-2641-4002-AB51-65D165D1B7CE - f337dceabebf6fd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static testValidation.TestClass.validateValue(_: Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;Swift.AnyObject&gt;&gt;, forKey: Swift.String) throws -&gt; ()"
+                  moduleName = "testValidation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey/work/testValidation/testValidation/TestClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "8733B1F6-2641-4002-AB51-65D165D1B7CE - f337dceabebf6f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static testValidation.TestClass.validateValue(_: Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;Swift.AnyObject&gt;&gt;, forKey: Swift.String) throws -&gt; ()"
+                  moduleName = "testValidation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey/work/testValidation/testValidation/TestClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "8733B1F6-2641-4002-AB51-65D165D1B7CE - 4ae61d697e440ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testValidation.TestClass.validateValue(_: Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;Swift.AnyObject&gt;&gt;, forKey: Swift.String) throws -&gt; ()"
+                  moduleName = "testValidation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergey/work/testValidation/testValidation/TestClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
